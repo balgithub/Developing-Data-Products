@@ -3,7 +3,7 @@ The NFL Football Play Predictor is a part of the Developing Data Products Course
 The dataset used in this app was taken from: https://www.spreadsheet-sports.com/free-tools/2013-nfl-play-play-data-excel/.
 ### This app has 2 main features 
 * It displays a bar plot of the Passes vs Runs for the past 3 years for the Team you select from the selection box.
-* Based on the input values of number of wins, field goals and turnovers, the tool predicts whether the selected team will run a pass or run play using a simple linear regression model.
+* Based on the input values for Down, ToGo yards, Quarter, Time remaining (in the quarter), and the position on the field, the tool predicts whether the selected team will execute a pass or run play using a simple linear regression model.
 
 ### HOW TO USE ?
 
